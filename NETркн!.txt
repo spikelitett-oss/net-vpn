@@ -1,4 +1,4 @@
-﻿vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=free.ziroxcompany.ir&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fdashboard&sni=free.ziroxcompany.ir#Россия NETРКН
+vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=free.ziroxcompany.ir&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fdashboard&sni=free.ziroxcompany.ir#Россия NETРКН
 vless://8890bbf7-1da1-4c74-8b01-71d261688a4f@mohamad.fantomgavi.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=mohamad.fantomgavi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohamad.fantomgavi.workers.dev#Россия 2 NETРКН
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@45.80.111.208:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.usa.nexusdataroute.com#Германия 4 NETРКН
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#США NETРКН
