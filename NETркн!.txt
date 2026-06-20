@@ -1,10 +1,3 @@
-vless://ad73ff14-a0e3-46d1-adc0-02ca29a32485@18.153.81.34:443#Германия NETРКН
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80#Нидерладны NETРКН
-trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443#Германия 2 NETРКН
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443#Индонезия NETРКН
-trojan://lTLVIqIvFqp+es9giS.0o77ztLrCQLaxVh@172.105.9.126:443#Канада NETРКН
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#Польша NETРКН
-trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443#Германия 3 NETРКН
 vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=free.ziroxcompany.ir&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2Fdashboard&sni=free.ziroxcompany.ir#Россия NETРКН
 vless://8890bbf7-1da1-4c74-8b01-71d261688a4f@mohamad.fantomgavi.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=mohamad.fantomgavi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohamad.fantomgavi.workers.dev#Россия 2 NETРКН
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@45.80.111.208:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.usa.nexusdataroute.com#Германия 4 NETРКН
